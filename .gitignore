@@ -1,0 +1,4 @@
+# Gowin IDE build outputs
+impl/
+*.gprj.user
+.DS_Store
